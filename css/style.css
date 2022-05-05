@@ -1,0 +1,25 @@
+body
+{
+  background-color: Lavenderblush ;
+}
+hr
+{
+  border-style: none;
+  border-top-style: dotted;
+  width: 5%;
+  border-color: grey;
+  border-width: 5px;
+}
+  img
+  {
+    height:300px;
+    width: 300px;
+  }
+h1
+{
+  color: DarkMagenta;
+}
+h3
+{
+  color: Navy;
+}
